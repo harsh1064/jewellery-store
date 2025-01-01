@@ -1,0 +1,17 @@
+ <li class="settings"><a href="#"><i class="fa fa-cog"></i></a>
+                        <div class="site-settings d-block d-sm-flex">
+
+                        <!--    <dl class="my-account">
+                                <dt>My Account</dt>
+                                <dd><a href="#">Dashboard</a></dd>
+                                <dd><a href="#">Profile</a></dd>
+                                <dd><a href="login-register.php">Login/Sign Up</a></dd>
+                            </dl> -->
+
+                        </div>
+                    </li>
+
+
+
+
+class="settings"
